@@ -2,18 +2,11 @@
   "version": 1,
   "images": [
     {
-      "id": "51bb55e3-91a3-487f-ab60-ae34db190bd0",
-      "path": "photos/1790151685269-51bb55e3-image-5.jpeg",
-      "caption": "POG",
-      "visible": true,
-      "orderIndex": 0
-    },
-    {
       "id": "13093eca-7865-4370-a9eb-31255de2918f",
       "path": "photos/1790151760533-13093eca-image-6.jpeg",
       "caption": "frewfew",
       "visible": true,
-      "orderIndex": 1
+      "orderIndex": 0
     }
   ]
 }
