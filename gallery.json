@@ -1,12 +1,4 @@
 {
   "version": 1,
-  "images": [
-    {
-      "id": "aed197e2-5eba-4c33-ab14-68a018dd1278",
-      "path": "photos/1790157865388-aed197e2-woodrat.png",
-      "caption": "krysa",
-      "visible": true,
-      "orderIndex": 0
-    }
-  ]
+  "images": []
 }
