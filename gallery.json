@@ -1,12 +1,4 @@
 {
   "version": 1,
-  "images": [
-    {
-      "id": "ef21f99e-3295-4f5e-ae32-f72912afa841",
-      "path": "photos/1790154345451-ef21f99e-image-6.jpeg",
-      "caption": "dd",
-      "visible": true,
-      "orderIndex": 0
-    }
-  ]
+  "images": []
 }
