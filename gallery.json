@@ -2,25 +2,18 @@
   "version": 1,
   "images": [
     {
-      "id": "0bac1b55-5c28-47ef-a5fe-5883898ebb3c",
-      "path": "photos/1790152950639-0bac1b55-image-5.jpeg",
-      "caption": "TEST-EDIT",
-      "visible": true,
-      "orderIndex": 0
-    },
-    {
       "id": "ec04778e-67df-4bea-91f8-dc0d47c6ab5c",
       "path": "photos/1790153554304-ec04778e-image-6.jpeg",
       "caption": "dd",
       "visible": true,
-      "orderIndex": 1
+      "orderIndex": 0
     },
     {
       "id": "30123cd3-2d21-44f8-b0d7-f7387f00768b",
       "path": "photos/1790153657031-30123cd3-image-5.jpeg",
       "caption": "edde",
       "visible": true,
-      "orderIndex": 2
+      "orderIndex": 1
     }
   ]
 }
