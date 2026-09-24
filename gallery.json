@@ -1,12 +1,4 @@
 {
   "version": 1,
-  "images": [
-    {
-      "id": "b234dd60-dad3-44ac-b3d5-b0ec61a129a3",
-      "path": "photos/1790267259125-b234dd60-gemini-generated-image-52nfnz52nfnz52nf.jpeg",
-      "caption": null,
-      "visible": false,
-      "orderIndex": 0
-    }
-  ]
+  "images": []
 }
